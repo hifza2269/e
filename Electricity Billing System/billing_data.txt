@@ -1,0 +1,2 @@
+Customer ID: 122222, Name: arham, Total Bill: ₹1797.00
+Customer ID: , Name: , Address: , Contact: , Meter No: , Month: January, Units: , Total Bill: Total Bill: ₹0.00
